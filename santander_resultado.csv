@@ -1,0 +1,11 @@
+UserID,Name,AccountNumber,Agency,Balance,AccountLimit,CardNumber,CardLimit,news
+1,Pyterson,00001-1,1,0,500,**** **** **** 1111,1000,"Pyterson, que tal começar a investir aos poucos para fazer seu dinheiro crescer?"
+2,Pip,00002-2,1,1500,500,**** **** **** 2222,1000,"Pip, excelente controle financeiro! Invista para potencializar seus resultados."
+3,Pep,00003-3,1,300,500,**** **** **** 3333,1000,"Pep, que tal começar a investir aos poucos para fazer seu dinheiro crescer?"
+4,Polly,00004-4,1,800,500,**** **** **** 4444,1000,"Polly, você já tem uma boa base financeira. Investir pode te levar mais longe."
+5,Peter,00005-5,1,1200,500,**** **** **** 5555,1000,"Peter, você já tem uma boa base financeira. Investir pode te levar mais longe."
+6,Pamela,00006-6,1,50,500,**** **** **** 6666,1000,"Pamela, que tal começar a investir aos poucos para fazer seu dinheiro crescer?"
+7,Patrick,00007-7,1,2200,500,**** **** **** 7777,1000,"Patrick, excelente controle financeiro! Invista para potencializar seus resultados."
+8,Penny,00008-8,1,400,500,**** **** **** 8888,1000,"Penny, que tal começar a investir aos poucos para fazer seu dinheiro crescer?"
+9,Paulo,00009-9,1,950,500,**** **** **** 9999,1000,"Paulo, você já tem uma boa base financeira. Investir pode te levar mais longe."
+10,Priscila,00010-0,1,1750,500,**** **** **** 0000,1000,"Priscila, excelente controle financeiro! Invista para potencializar seus resultados."
